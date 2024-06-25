@@ -18,4 +18,5 @@ Concluir o curso de desenvolvimento backend em Java pela Oracle Next Education.
 Especializar-me cada vez mais em programação Java e construir uma carreira sólida nessa área.
 
 🔗 Vamos nos conectar!
+
 <a href="https://www.linkedin.com/in/erick-david/">LinkedIn</a> | <a href="erick.souzasantos2003@gmail.com">Email</a>

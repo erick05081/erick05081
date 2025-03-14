@@ -3,8 +3,11 @@
 💼 Formação e Experiência:
 
 Pós Graduação em Data Analytics - FIAP (cursando).
+
 Tecnólogo em Gestão da Tecnologia da Informação – Fatec Franco da Rocha (conclusão em 12/2024).
+
 Técnico em Eletroeletrônica – Etec Profª Drª Doroti Kiomi Kanashiro Toyohara (conclusão em 12/2021).
+
 Experiência com ferramentas de análise de dados, como Power BI, SQL, Excel e Python.
 Criação de dashboards interativos e relatórios gerenciais para visualização de métricas e indicadores.
 Análise e manipulação de dados para apoiar a tomada de decisões em projetos.
